@@ -2,6 +2,8 @@ package study.sortedArray;
 
 import java.util.Scanner;
 
+// after first commit 
+
 public class SortedArray {
 	
 	private int list[];
